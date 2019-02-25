@@ -10,7 +10,7 @@ Cloudscraper creates a snapshot image of the system, and virtualizes the image.
 
 Then it uploads the image to AWS (Amazon Web Services), Azure, or OpenStack cloud, and creates a VM based on the image.
 
-For more info, see the web page: http://www.migrate2iaas.com/technology
+[More info](http://www.migrate2iaas.com/technology)
 
 ## Supported source OS:
 
