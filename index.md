@@ -1,6 +1,6 @@
 ## Migrate2Iaas Cloudscraper
 
-Cloudscraper is a simple software tool to migrate your servers to Cloud (see http://www.migrate2iaas.com web site).
+Cloudscraper is a simple software tool to migrate your servers to Cloud (see the official [website](http://www.migrate2iaas.com)).
 Starting from version 6.6 it's free to use and open-source.
 
 ### How it works?
@@ -19,18 +19,13 @@ For more info, see the web page: http://www.migrate2iaas.com/technology
 
 ## Downloads:
 
-Version for Windows:
-http://migrate2iaas.blob.core.windows.net/cloudscraper-release6/cloudscraper-installer-6-3-0.exe
+[Free version for Windows](http://migrate2iaas.blob.core.windows.net/cloudscraper-release6/cloudscraper-installer-6-3-0.exe)
 
-Free license key file download:
-http://cloudscraper.migrate2iaas.com/gen15license?expiration=10000&signature_check=false
+Free license key file [download](http://cloudscraper.migrate2iaas.com/gen15license?expiration=10000&signature_check=false)
 
 ## Support:
 
-Paid support and manual migration services (399$ per ticket, we reply in 3-5 biz days):
+[Paid support and manual migration services](https://secure.2checkout.com/order/product.php?PRODS=19753163&QTY=1&ORDERSTYLE=nLWom5a5kHM=) (399$ per ticket, we reply in 3-5 biz days):
 
-https://secure.2checkout.com/order/product.php?PRODS=19753163&QTY=1&ORDERSTYLE=nLWom5a5kHM=
+[Support forum at github](https://github.com/migrate2iaas/migrate2iaas.gethub.io/issues) (free, no promises):
 
-Support forum (free, no promises):
-
-https://github.com/migrate2iaas/migrate2iaas.gethub.io/issues
