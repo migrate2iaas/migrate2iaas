@@ -29,6 +29,9 @@ Free license key file [download](http://cloudscraper.migrate2iaas.com/gen15licen
 
 [Support forum at github](https://github.com/migrate2iaas/migrate2iaas.gethub.io/issues) (free, no promises)
 
+## Tutorials:
+
+[Here](http://www.migrate2iaas.com/tutorial)
 
 ## Source code:
 See the list of related repos [here](https://github.com/migrate2iaas/migrate2iaas.github.io/blob/master/README.md)
