@@ -2,4 +2,3 @@ theme: jekyll-theme-minimal
 title: Cloudscraper 
 description: A simple software tool to migrate physical and virtual machines to AWS and Azure
 logo: http://www.migrate2iaas.com/sites/default/files/cloudscaper-190-176.png
-show_downloads: yes
