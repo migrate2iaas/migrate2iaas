@@ -25,7 +25,10 @@ Free license key file [download](http://cloudscraper.migrate2iaas.com/gen15licen
 
 ## Support:
 
-[Paid support and manual migration services](https://secure.2checkout.com/order/product.php?PRODS=19753163&QTY=1&ORDERSTYLE=nLWom5a5kHM=) (399$ per ticket, we reply in 3-5 biz days):
+[Paid support and manual migration services](https://secure.2checkout.com/order/product.php?PRODS=19753163&QTY=1&ORDERSTYLE=nLWom5a5kHM=) (399$ per ticket, we reply in 3-5 biz days)
 
-[Support forum at github](https://github.com/migrate2iaas/migrate2iaas.gethub.io/issues) (free, no promises):
+[Support forum at github](https://github.com/migrate2iaas/migrate2iaas.gethub.io/issues) (free, no promises)
 
+
+## Source code:
+See the list of related repos [here](https://github.com/migrate2iaas/migrate2iaas.github.io/blob/master/README.md)
