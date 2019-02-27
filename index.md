@@ -21,7 +21,7 @@ Then it uploads the image to AWS (Amazon Web Services), Azure, or OpenStack clou
 
 [Free version for Windows](http://migrate2iaas.blob.core.windows.net/cloudscraper-release6/cloudscraper-installer-6-3-0.exe)
 
-Free license key file [download](http://cloudscraper.migrate2iaas.com/gen15license?expiration=10000&signature_check=false)
+Free license key file [download](http://cloudscraper.migrate2iaas.com/gen15license?expiration=3000&signature_check=false)
 
 ## Support:
 
